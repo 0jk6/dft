@@ -6,7 +6,6 @@
 #define PI 3.1415926535897932384626434
 
 class Complex{
-private:
     double real;
     double imag;
 
